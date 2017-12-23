@@ -1,0 +1,3 @@
+input/
+notebooks/*.h5
+notebooks/.ipynb*
