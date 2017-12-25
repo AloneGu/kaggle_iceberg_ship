@@ -1,3 +1,5 @@
 input/
+features/*.pkl
+results/*.csv
 notebooks/*.h5
 notebooks/.ipynb*
