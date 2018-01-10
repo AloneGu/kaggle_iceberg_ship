@@ -1,5 +1,11 @@
 # kaggle_iceberg_ship
 
-weighted no help
 
-low model std help
+
+useful links:     
+
+* https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/45265#266853
+
+* https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/47062
+
+
