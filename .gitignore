@@ -1,4 +1,5 @@
 input/
+other_hand_features/.ipynb_checkpoints/
 tmp_backup_feat
 *.csv
 stacking/.ipynb_checkpoints/
