@@ -32,7 +32,7 @@ test stacking methods like voting, works for public LB
 
 * get results/stack_minmax_bestbase5.csv ( public score 0.1228, private score 0.1400 )
 
-* final rank 295/3617, top 9%， my first kaggle medal !!! :stuck_out_tongue_winking_eye:
+* final rank 258/3341, top 9%， my first kaggle medal !!! :stuck_out_tongue_winking_eye:
 
 ## leaderboard link
 
